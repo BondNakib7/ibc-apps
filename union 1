@@ -1,0 +1,7 @@
+{
+  "forward": {
+    "port": 5,
+    "channel": 30,
+    "recipient": "0x..."
+  }
+}
